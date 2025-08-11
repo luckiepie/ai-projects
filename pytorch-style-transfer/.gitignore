@@ -1,0 +1,6 @@
+content_images/
+style_images/
+results/
+__pycache__/
+*.pyc
+.DS_Store
